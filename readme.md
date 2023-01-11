@@ -9,3 +9,7 @@ chmod +x ./install.sh
 # 실행
 ./install.sh
 ```
+
+## Todo
+
+* 백엔드 작업 후 response 함수 수정하기
